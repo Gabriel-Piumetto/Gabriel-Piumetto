@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Piumetto</h1>
 <h3 align="center">Full stack web developer</h3>
 
+Full Stack Web Developer con background en cursos de programación centrados en desarrollo web que me ayudaron a manejar un stack de tecnologías para la creación de aplicaciones web dinámicas SPA utilizando Javascript. Conocimientos en metodologías ágiles, GIT. Experiencia en  desarrollo de Front End y Back End con React, Redux, Express, Postgre SQL, Sequelize. Con adaptabilidad, autodidacta, orientación al cliente, perseverancia, resiliencia, resolución de problemas, trabajo en equipo.  Nivel de Inglés: C2 reading/listening, trabajando activamente en mejorar la fluidez conversacional y la pronunciación.
+
 - 🌱 I’m currently learning **Bootcamp Soyhenry**
 
 - 💬 Ask me about **React, Redux, Express, Postgre SQL, Sequelize**
